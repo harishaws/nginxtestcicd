@@ -1,4 +1,4 @@
-FROM debian:jessiexxxx
+FROM debian:jessie
 
 MAINTAINER NGINX Docker Maintainers "docker-maint@nginx.com"
 

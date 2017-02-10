@@ -1,2 +1,2 @@
 ###nginxtestcicd
-########## The Docker file can used to build the nginx image.
+############# The Docker file can used to build the nginx image.

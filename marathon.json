@@ -9,7 +9,6 @@
     "type": "DOCKER",
     "volumes": [],
     "docker": {
-      "image": "nginx",
       "network": "BRIDGE",
       "portMappings": null,
       "privileged": false,

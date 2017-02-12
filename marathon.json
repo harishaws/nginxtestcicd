@@ -9,6 +9,7 @@
     "type": "DOCKER",
     "volumes": [],
     "docker": {
+      "image": "harishaws/nginxtestcicd",
       "network": "BRIDGE",
       "portMappings": null,
       "privileged": false,
